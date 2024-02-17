@@ -13,3 +13,10 @@ for i in range(len(matrix)):
         max_row = i
 
 print("Row with maximum number of 1s:", max_row + 1)
+
+
+
+
+
+
+
